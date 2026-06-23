@@ -1,4 +1,4 @@
-package Trees.BST;
+package Trees.BST
 
 public class Operations {
     class Node{

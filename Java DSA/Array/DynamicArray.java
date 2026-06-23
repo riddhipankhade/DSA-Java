@@ -1,3 +1,5 @@
+package Array;
+
 class DynamicArray {
     int size;
     int[] arr;

@@ -1,5 +1,3 @@
-package Trees.BST;
-
 public class BalancedBT {
     class Node{
         int data;
